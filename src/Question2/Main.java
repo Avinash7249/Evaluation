@@ -13,7 +13,6 @@ public class Main {
 		
 		TemporaryEmployee te=new TemporaryEmployee(444,"raj",1000,1500);
 		
-		
 		System.out.println("Temporary  Employee  :"+loan.calculateLoanAmount(te));
 		
 		System.out.println("By passing as null value  :"+loan.calculateLoanAmount(null));

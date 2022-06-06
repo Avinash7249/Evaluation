@@ -2,7 +2,6 @@ package Question2;
 
 abstract public class Employee {
 
-	
 	protected int employeeId;
 	protected String employeeName;
 	protected double salary;

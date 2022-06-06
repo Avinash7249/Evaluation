@@ -8,6 +8,7 @@ public class Customer {
 	private String email;
 	
 	
+	
 	public String getUsername() {
 		return username;
 	}

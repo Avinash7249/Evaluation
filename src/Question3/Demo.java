@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Demo {
 	
 	void showDetails(Month m){
+		
 		try {
 		
 		if(m==m.january) {

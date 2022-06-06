@@ -8,8 +8,7 @@ public class PermanentEmployee extends Employee{
 		super(employeeId, employeeName);
 		this.basicPay=basicPay;
 	}
-		
-
+	
 	@Override
 	void calculateSalary() {
 		

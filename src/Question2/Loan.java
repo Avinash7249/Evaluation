@@ -17,10 +17,7 @@ public class Loan  {
 			return lone;
 		}
 		}
-			
 		
-	
-	
 	private Loan() {
 		
 	}
